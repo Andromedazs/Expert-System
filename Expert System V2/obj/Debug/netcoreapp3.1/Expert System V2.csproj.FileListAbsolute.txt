@@ -1,0 +1,3 @@
+C:\Users\kiahr\source\repos\Expert System V2\obj\Debug\netcoreapp3.1\Expert System V2.AssemblyInfoInputs.cache
+C:\Users\kiahr\source\repos\Expert System V2\obj\Debug\netcoreapp3.1\Expert System V2.AssemblyInfo.cs
+C:\Users\kiahr\source\repos\Expert System V2\obj\Debug\netcoreapp3.1\Expert System V2.csproj.CoreCompileInputs.cache
